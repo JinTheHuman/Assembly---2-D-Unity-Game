@@ -6,7 +6,7 @@ Open 'Assembly Executable Files' to view executable files and open 'Assembly.exe
 
 # Controls
 
-Movement - Arrow Keys
-Interact with Objects/People - Space Bar
-Pause - Right Shift
+Movement - Arrow Keys\n
+Interact with Objects/People - Space Bar\n
+Pause - Right Shift\n
 Click Buttons - Mouse Click
